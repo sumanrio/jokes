@@ -1,7 +1,7 @@
 const btnEl = document.getElementById("btn");
 const jokeEl = document.getElementById("joke");
 
-const apiKey = "https://icanhazdadjoke.com/api";
+const apiKey = "https://icanhazdadjoke.com/";
 
 const options = {
   method: "GET",
